@@ -1,0 +1,52 @@
+.jump {
+	color: white;
+	/*background: gray!important;*/
+	background-image: url('C:/Users/user/Downloads/chair.jpg') !important;
+   -webkit-background-size: cover; /* For WebKit*/
+    -moz-background-size: cover;    /* Mozilla*/
+    -o-background-size: cover;      /* Opera*/
+    background-size: cover;         /* Generic*/
+	
+}
+
+.curve{
+	border-radius: 50px !important;
+	background-color:cyan; 
+}
+
+.innercurve{
+	border-radius: 50px 50px 0px 0px !important ; 
+}
+.paddtop{
+	padding-top: 10px;
+}
+
+.outercurve{
+	border-radius: 0px 0px 50px 50px !important;
+}
+.padpop{
+	padding-top: 200px;
+	padding-left:100px!important;
+}
+
+#body {
+  background: url(bg.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+.border-form{
+	border-color: #92a8d1 !important;
+	border-style: solid !important;
+	width: 200px !important;
+	border-radius: 15px 50px !important;
+	padding: 20px;
+	/*background: #73AD21;*/
+}
+
+.login-font{
+	font-weight: bolder;
+	color: brown;
+	font-size: 20px;
+}
