@@ -1,7 +1,7 @@
 # Search-function
 Search function with realtime prediction using javascript and PHP.
 
-##T echnology Stack
+## Technology Stack
 PHP 7.1
 Bootrap 3.3.7
 HTML, CSS, Javascript
